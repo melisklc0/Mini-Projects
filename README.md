@@ -1,2 +1,2 @@
 # Mini-Projects
-Geliştirdiğim ufak çaplı projeler
+Mini projects using Java.
